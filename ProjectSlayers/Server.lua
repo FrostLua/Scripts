@@ -1,1 +1,1 @@
-https://nyx.pylex.xyz:10752/authenticate
+return "https://nyx.pylex.xyz:10752/authenticate"
