@@ -3531,7 +3531,7 @@ elseif EQ(game.PlaceId, 5956785391) then
                                 pcall(function()
                                     TPReturner()
                                     if foundAnything ~= "" then
-                                        TPReturner()
+                                        TPReturner();
                                     end
                                 end)
                             end
